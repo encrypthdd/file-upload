@@ -4,8 +4,8 @@ Bienvenido a la **File-Upload **
 
 ## 💻Descripcion
 
-Este sistema est谩 desarrollado utilizando las siguientes tecnolog铆as:
-- **Versi贸n AppWeb**: V 1.0.0
+Este sistema esta desarrollado utilizando las siguientes tecnolog铆as:
+- **Version AppWeb**: V 1.0.0
 - **Fecha**: Octubre 16, 2024
 - **Lenguaje de programaci贸n**: HTML, JS, CSS
 
@@ -23,7 +23,11 @@ Si estas interesado en adquirir el sistema o tienes alguna pregunta, no dudes en
 
 ### 💻  Panel de Control
 
+### file-upload-01
 ![File-Upload01](assets/img/upload.png)
+### file-upload-02
 ![File-Upload02](assets/img/upload2.png)
+### file-upload-03
 ![File-Upload03](assets/img/upload3.png)
+### file-upload-04
 ![File-Upload04](assets/img/upload4.png)
