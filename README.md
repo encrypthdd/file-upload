@@ -1,26 +1,29 @@
-# 馃悢 Plantillas para carga de archivos HTML, JS and CSS
+# 💻 Plantillas para carga de archivos HTML, JS and CSS
 
 Bienvenido a la **File-Upload **
 
-## 馃専 Descripci贸n
+## 💻Descripcion
 
 Este sistema est谩 desarrollado utilizando las siguientes tecnolog铆as:
 - **Versi贸n AppWeb**: V 1.0.0
 - **Fecha**: Octubre 16, 2024
 - **Lenguaje de programaci贸n**: HTML, JS, CSS
 
-## 馃摓 Contacto
+## 💻Contacto
 
-Si est谩s interesado en adquirir el sistema o tienes alguna pregunta, no dudes en contactarme:
+Si estas interesado en adquirir el sistema o tienes alguna pregunta, no dudes en contactarme:
 
-- **Derechos de autor**: Copyright 漏 2024 Carlos Pc´s Soluciones / All rights reserved
+- **Derechos de autor**: Copyright 2024 Carlos Pc´s Soluciones / All rights reserved
 - **Desarrollador Web y Lider de Proyecto**: Carlos Flores
 - **WhatsApp**: +584123330319
 - **Email**: cflores@carlospcssoluciones.com.ve
 - **Github**: https://github.com/encrypthdd/file-upload.git
 
-# 馃洜锔?Funcionalidades
+# 💻 Funcionalidades
 
-### 馃攳 Panel de Control
+### 💻  Panel de Control
 
-![File-Upload](assets/img/upload.png)
+![File-Upload01](assets/img/upload.png)
+![File-Upload02](assets/img/upload2.png)
+![File-Upload03](assets/img/upload3.png)
+![File-Upload04](assets/img/upload4.png)
